@@ -9,6 +9,5 @@ class sample
         m = buf.nextInt();
         sum=n+m;
         System.out.println(sum);
-        
-    }
+     }
 }
